@@ -1,0 +1,11 @@
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\bin\Debug\net8.0\PrimeService.dll
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\obj\Debug\net8.0\PrimeService.dll
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+C:\Users\pmacsal2707\Documents\PabloMacias_ExUD4-ED\unit-testing-usingnunit\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
